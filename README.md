@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left">Kyungmin Nam</h1>
+<h1 align="left">Kyoungmin Nam</h1>
 <p align="left">
  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=rudalswhdk12@gmail.com" target="_blank">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
