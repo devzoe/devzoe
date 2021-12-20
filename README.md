@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 <li>Spring Framework</li>
 <li>Encountering new Tech Stack</li>  
 </ul>
-<h1 align="left">🛠 Tech Stack 🛠</h1>
-<h2>⭐️ Techs that I've used at least once ⭐️</h2>
+<h3 align="left">🛠 Tech Stack 🛠</h3>
+<h4>Techs that I've used at least once ⭐</h4>
 <p align="left">
  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
