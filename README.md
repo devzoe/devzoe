@@ -27,8 +27,7 @@ Here are some ideas to get you started:
 
 <h3>Interest</h3>
 <ul>
-<li>Web Ecosystem</li>  
-<li>Spring Framework</li>
+<li>iOS Programming</li>  
 <li>Encountering new Tech Stack</li>  
 </ul>
 <h3 align="left">🛠 Tech Stack 🛠</h3>
